@@ -1,5 +1,8 @@
 # 📚 Psicanálise - Desenvolvimento, Autores e métodos para estudo
 
+## Link para NotebookLM do projeto 
+[NotebookLM](https://notebooklm.google.com/notebook/2536ea83-e199-410f-af49-bdfb5ca3df4f "Ir para a NotebookLM do Projeto")
+
 ## 🎯 Contexto e Objetivos
 **Tema escolhido:** Desenvolvimento da Psicanálise, seus autores e introdução à psicanálise
 
